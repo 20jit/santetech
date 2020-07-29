@@ -1,0 +1,73 @@
+.image {
+
+    display:block;
+    width: 25%;
+    margin-right: auto;
+}
+
+h1{
+	font-size: 80px;
+	text-align: center;
+	color: #DD0101;
+	background-color: white;
+}
+
+html{
+	background: url( 'photo/santé3.png');
+
+}
+h2{ 
+	font-size: 40px;
+	margin-left: 30px;
+}
+
+video.inter{
+	margin-left: 1000px;
+}
+video.inter3{
+	margin-left: 1000px;
+}
+
+h2.IA{
+	text-align: right;
+}
+h2.ia{
+	text-align: right;
+}
+
+ul{
+   font-size: 30px;
+}
+.conclusion{
+	font-size: 30px;
+	margin: 40px;
+}
+
+h1.conclu{
+	font-size: 80px;
+	text-align: center;
+	color: black;
+}
+header{
+	text-align:center;
+}
+
+#naviguation li{
+	display: inline-block;
+	margin-right: 10px;
+	border: 2px solid;
+	text-decoration: none;
+	color: #DD0101;
+	padding: 10px;
+}
+
+
+#naviguation li a{
+   text-decoration:none;
+
+}
+
+#naviguation li:hover{
+	background-color:grey; ;
+
+}
